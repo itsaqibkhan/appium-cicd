@@ -1,0 +1,7 @@
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:40.395 BaseTest:304 - Text fetched- carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:40.541 ProductsTests:127 - Expected SLB Price at details screen is- carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+Actual SLB Price at details screen is-carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:42.839 ProductsTests:68 - 
+******** starting test ********validateProductOnProductsPage*******
+
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:46.743 BaseTest:279 - Press settings button

@@ -1,0 +1,10 @@
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:19:43.811 BaseTest:205 - log path: logs/Android_Pixel 3A
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:19:43.837 BaseTest:246 - /home/user/eclipse-workspace/TDDFrameworkWithMultiThread/target/test-classes/app/Android-MyDemoAppRN.1.3.0.build-244.apk
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:26:11.629 BaseTest:206 - log path: logs/Android_Pixel 3A
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:26:11.650 BaseTest:247 - /home/user/eclipse-workspace/TDDFrameworkWithMultiThread/target/test-classes/app/Android-MyDemoAppRN.1.3.0.build-244.apk
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:45:45.590 BaseTest:197 - log path: logs/Android_Pixel 3A
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:45:45.616 BaseTest:238 - /home/user/eclipse-workspace/TDDFrameworkWithMultiThread/target/test-classes/app/Android-MyDemoAppRN.1.3.0.build-244.apk
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:46:25.032 BaseTest:244 - Session id:314022dd-ee41-4d07-aeed-3585ed755c3d
+[logs/Android_Pixel 3A INFO ] 2023-04-19 11:46:26.755 LoginTests:64 - 
+******** starting test ********invalidUserName*******
+

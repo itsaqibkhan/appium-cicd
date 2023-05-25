@@ -1,0 +1,7 @@
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:11.281 BaseTest:297 - Clearing username field
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:12.059 BaseTest:291 - Login with username- bob@example.com
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:12.776 BaseTest:297 - Clearing password field
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:13.487 BaseTest:291 - Login with password- 10203040
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:14.205 BaseTest:279 - Press login button
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:17.603 BaseTest:304 - Text fetched- Products
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:17.721 LoginTests:103 - Actual Product Title - Products

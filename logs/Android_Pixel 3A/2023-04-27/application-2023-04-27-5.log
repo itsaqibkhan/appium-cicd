@@ -1,0 +1,14 @@
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:19.068 BaseTest:291 - Login with password- 10203040
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:20.209 BaseTest:279 - Press login button
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:24.394 BaseTest:304 - Text fetched- Products
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:24.559 LoginTests:103 - Actual Product Title - Products
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:26.908 ProductsTests:68 - 
+******** starting test ********validateProductOnProductsDetailsPage*******
+
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:27.353 BaseTest:279 - Press SLB Title
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:31.477 BaseTest:304 - Text fetched- Sauce Labs Backpack
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:31.625 ProductsTests:113 - Expected SLB Price at details screen is- Sauce Labs Backpack
+Actual SLB Price  at details screen is-Sauce Labs Backpack
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:31.826 BaseTest:304 - Text fetched- $29.99
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:31.901 ProductsTests:119 - Expected SLB Price at details screen is- $29.99
+Actual SLB Price at details screen is-$29.99

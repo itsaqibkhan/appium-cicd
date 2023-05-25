@@ -1,0 +1,10 @@
+[logs/Android_Pixel 3A INFO ] 2023-04-26 15:53:41.732 BaseTest:249 - Session id:137fb11f-3964-4e3d-8c47-59780f7d2fec
+[logs/Android_Pixel 3A INFO ] 2023-04-26 15:53:42.696 LoginTests:64 - 
+******** starting test ********invalidUserName*******
+
+[logs/Android_Pixel 3A INFO ] 2023-04-26 15:53:52.916 LoginTests:85 - actual error text - Provided credentials do not match any user in this service.
+expected error text- Provided credentials do not match any user in this service.
+[logs/Android_Pixel 3A INFO ] 2023-04-26 15:53:54.272 LoginTests:64 - 
+******** starting test ********sucessfulLogin*******
+
+[logs/Android_Pixel 3A INFO ] 2023-04-26 15:54:00.472 LoginTests:103 - Actual Product Title - Products

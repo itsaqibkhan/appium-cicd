@@ -1,0 +1,5 @@
+[logs/Android_Pixel 3A INFO ] 2023-05-24 16:11:24.876 BaseTest:297 - Clearing password field
+[logs/Android_Pixel 3A INFO ] 2023-05-24 16:11:25.568 BaseTest:291 - Login with password- 10203040
+[logs/Android_Pixel 3A INFO ] 2023-05-24 16:11:26.266 BaseTest:279 - Press login button
+[logs/Android_Pixel 3A INFO ] 2023-05-24 16:11:29.533 BaseTest:304 - Text fetched- Products
+[logs/Android_Pixel 3A INFO ] 2023-05-24 16:11:29.625 LoginTests:103 - Actual Product Title - Products

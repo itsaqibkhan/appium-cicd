@@ -1,0 +1,12 @@
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:41.992 BaseTest:297 - Clearing password field
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:42.578 BaseTest:291 - Login with password- secret_sauce
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:43.258 BaseTest:279 - Press login button
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:44.094 BaseTest:304 - Text fetched- Provided credentials do not match any user in this service.
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:44.174 LoginTests:85 - actual error text - Provided credentials do not match any user in this service.
+expected error text- Provided credentials do not match any user in this service.
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:45.680 LoginTests:64 - 
+******** starting test ********sucessfulLogin*******
+
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:45.724 BaseTest:297 - Clearing username field
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:46.419 BaseTest:291 - Login with username- bob@example.com
+[logs/Android_Pixel 3A INFO ] 2023-05-24 11:23:47.122 BaseTest:297 - Clearing password field

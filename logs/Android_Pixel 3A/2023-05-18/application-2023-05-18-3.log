@@ -1,0 +1,9 @@
+[logs/Android_Pixel 3A INFO ] 2023-05-18 15:56:55.085 BaseTest:304 - Text fetched- Sauce Labs Backpack
+[logs/Android_Pixel 3A INFO ] 2023-05-18 15:56:55.183 ProductsTests:113 - Expected SLB Price at details screen is- Sauce Labs Backpack
+Actual SLB Price  at details screen is-Sauce Labs Backpack
+[logs/Android_Pixel 3A INFO ] 2023-05-18 15:56:55.366 BaseTest:304 - Text fetched- $29.99
+[logs/Android_Pixel 3A INFO ] 2023-05-18 15:56:55.466 ProductsTests:119 - Expected SLB Price at details screen is- $29.99
+Actual SLB Price at details screen is-$29.99
+[logs/Android_Pixel 3A INFO ] 2023-05-18 15:57:03.028 BaseTest:304 - Text fetched- carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[logs/Android_Pixel 3A INFO ] 2023-05-18 15:57:03.106 ProductsTests:127 - Expected SLB Price at details screen is- carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+Actual SLB Price at details screen is-carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.

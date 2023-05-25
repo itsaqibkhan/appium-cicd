@@ -1,0 +1,17 @@
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:30:48.929 BaseTest:251 - Session id:d818ce9a-0581-4dd0-aaa6-52da3922aee4
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:30:59.916 LoginTests:64 - 
+******** starting test ********invalidUserName*******
+
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:31:34.288 LoginTests:64 - 
+******** starting test ********sucessfulLogin*******
+
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:32:08.452 ProductsTests:68 - 
+******** starting test ********validateProductOnProductsDetailsPage*******
+
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:32:09.707 BaseTest:279 - Press SLB Title
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:32:41.059 ProductsTests:68 - 
+******** starting test ********validateProductOnProductsPage*******
+
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:32:52.392 BaseTest:279 - Press settings button
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:32:57.059 BaseTest:297 - Clearing username field
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:00.136 BaseTest:291 - Login with username- bob@example.com

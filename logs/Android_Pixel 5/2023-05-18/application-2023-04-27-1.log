@@ -1,0 +1,9 @@
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:01.854 BaseTest:297 - Clearing password field
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:03.268 BaseTest:291 - Login with password- 10203040
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:05.105 BaseTest:279 - Press login button
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:11.194 BaseTest:304 - Text fetched- Sauce Labs Backpack
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:11.425 ProductsTests:90 - Expected SLB title is- Sauce Labs Backpack
+Actual SLB Title is-Sauce Labs Backpack
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:11.870 BaseTest:304 - Text fetched- $29.99
+[logs/Android_Pixel 5 INFO ] 2023-04-27 15:33:12.081 ProductsTests:95 - Expected SLB Price is- $29.99
+Actual SLB Price is-$29.99

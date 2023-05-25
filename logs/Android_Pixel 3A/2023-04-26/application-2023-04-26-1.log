@@ -1,0 +1,10 @@
+[logs/Android_Pixel 3A INFO ] 2023-04-26 13:12:56.882 BaseTest:202 - log path: logs/Android_Pixel 3A
+[logs/Android_Pixel 3A INFO ] 2023-04-26 13:12:56.900 BaseTest:243 - /home/user/eclipse-workspace/TDDFrameworkWithMultiThread/target/test-classes/app/Android-MyDemoAppRN.1.3.0.build-244.apk
+[logs/Android_Pixel 3A INFO ] 2023-04-26 13:20:18.447 BaseTest:202 - log path: logs/Android_Pixel 3A
+[logs/Android_Pixel 3A INFO ] 2023-04-26 13:20:18.455 BaseTest:243 - /home/user/eclipse-workspace/TDDFrameworkWithMultiThread/target/test-classes/app/Android-MyDemoAppRN.1.3.0.build-244.apk
+[logs/Android_Pixel 3A INFO ] 2023-04-26 13:20:56.485 BaseTest:249 - Session id:119c1edf-46aa-48c6-b09e-67f17d346c20
+[logs/Android_Pixel 3A INFO ] 2023-04-26 13:20:57.635 LoginTests:64 - 
+******** starting test ********invalidUserName*******
+
+[logs/Android_Pixel 3A INFO ] 2023-04-26 13:21:08.188 LoginTests:85 - actual error text - Provided credentials do not match any user in this service.
+expected error text- Provided credentials do not match any user in this service.

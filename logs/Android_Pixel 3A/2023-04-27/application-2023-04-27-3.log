@@ -1,0 +1,13 @@
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:18:16.566 ProductsTests:68 - 
+******** starting test ********validateProductOnProductsPage*******
+
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:18:20.827 BaseTest:279 - Press settings button
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:22:08.424 BaseTest:204 - log path: logs/Android_Pixel 3A
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:22:08.452 BaseTest:245 - /home/user/eclipse-workspace/TDDFrameworkWithMultiThread/target/test-classes/app/Android-MyDemoAppRN.1.3.0.build-244.apk
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:22:39.224 BaseTest:251 - Session id:1497077e-5096-4539-88a5-bfb549636d79
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:22:46.901 LoginTests:64 - 
+******** starting test ********invalidUserName*******
+
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:01.500 BaseTest:279 - Press settings button
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:04.363 BaseTest:297 - Clearing username field
+[logs/Android_Pixel 3A INFO ] 2023-04-27 15:23:05.504 BaseTest:291 - Login with username- invalidusername

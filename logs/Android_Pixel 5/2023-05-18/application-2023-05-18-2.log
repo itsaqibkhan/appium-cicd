@@ -1,0 +1,12 @@
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:03.625 BaseTest:279 - Press settings button
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:05.547 BaseTest:297 - Clearing username field
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:06.206 BaseTest:291 - Login with username- invalidusername
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:07.111 BaseTest:297 - Clearing password field
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:07.755 BaseTest:291 - Login with password- secret_sauce
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:08.479 BaseTest:279 - Press login button
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:09.379 BaseTest:304 - Text fetched- Provided credentials do not match any user in this service.
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:09.493 LoginTests:85 - actual error text - Provided credentials do not match any user in this service.
+expected error text- Provided credentials do not match any user in this service.
+[logs/Android_Pixel 5 INFO ] 2023-05-18 18:23:11.179 LoginTests:64 - 
+******** starting test ********sucessfulLogin*******
+
