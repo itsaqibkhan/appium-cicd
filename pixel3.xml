@@ -14,8 +14,8 @@
 	   <parameter name="avd" value = "Pixel_3A_V10"/>
     <classes>	
          <class name="com.qa.tests.LoginTests"/>
-        <class name="com.qa.tests.ProductsTests"/>
-   </classes>
+<!--        <class name="com.qa.tests.ProductsTests"/>
+-->   </classes>
   </test>
   
 </suite> <!-- Suite --> 

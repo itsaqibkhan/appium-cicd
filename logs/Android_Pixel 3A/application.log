@@ -1,3 +1,10 @@
-[logs/Android_Pixel 3A INFO ] 2023-05-25 11:42:42.138 BaseTest:279 - Press login button
-[logs/Android_Pixel 3A INFO ] 2023-05-25 11:42:45.521 BaseTest:304 - Text fetched- Products
-[logs/Android_Pixel 3A INFO ] 2023-05-25 11:42:45.653 LoginTests:103 - Actual Product Title - Products
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:32.548 LoginTests:64 - 
+******** starting test ********sucessfulLogin*******
+
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:32.599 BaseTest:297 - Clearing username field
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:33.309 BaseTest:291 - Login with username- bob@example.com
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:33.953 BaseTest:297 - Clearing password field
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:34.586 BaseTest:291 - Login with password- 10203040
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:35.226 BaseTest:279 - Press login button
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:38.447 BaseTest:304 - Text fetched- Products
+[logs/Android_Pixel 3A INFO ] 2023-06-03 12:54:38.503 LoginTests:103 - Actual Product Title - Products

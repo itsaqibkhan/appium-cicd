@@ -4,31 +4,30 @@
   <listeners>
     <listener class-name="com.qa.listners.TestListners"/>
   </listeners>
-  <test thread-count="5" parallel="tests" name="Pixel 5(failed)">
-    <parameter name="platformVersion" value="12.0"/>
-    <parameter name="chromeDriverPort" value="11000"/>
+  <test thread-count="5" parallel="tests" name="Pixel 3A(failed)">
+    <parameter name="platformVersion" value="10.0"/>
+    <parameter name="chromeDriverPort" value="11001"/>
     <parameter name="platformName" value="Android"/>
-    <parameter name="udid" value="emulator-5554"/>
-    <parameter name="deviceName" value="Pixel 5"/>
-    <parameter name="avd" value="Pixel_5_V12"/>
-    <parameter name="systemPort" value="10000"/>
+    <parameter name="udid" value="emulator-5556"/>
+    <parameter name="deviceName" value="Pixel 3A"/>
+    <parameter name="avd" value="Pixel_3A_V10"/>
+    <parameter name="systemPort" value="10001"/>
     <classes>
-      <class name="com.qa.tests.LoginTests">
+      <class name="com.qa.tests.ProductsTests">
         <methods>
-          <include name="beforeMethod"/>
           <include name="afterTest"/>
+          <include name="afterMethod"/>
           <include name="beforeSuite"/>
-          <include name="invalidUserName"/>
-          <include name="beforeClass"/>
+          <include name="afterClass"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
+          <include name="validateProductOnProductsPage"/>
+          <include name="beforeMethod"/>
           <include name="beforeMethod"/>
           <include name="afterSuite"/>
-          <include name="afterMethod"/>
-          <include name="sucessfulLogin"/>
-          <include name="afterClass"/>
+          <include name="beforeClass"/>
         </methods>
-      </class> <!-- com.qa.tests.LoginTests -->
+      </class> <!-- com.qa.tests.ProductsTests -->
     </classes>
-  </test> <!-- Pixel 5(failed) -->
+  </test> <!-- Pixel 3A(failed) -->
 </suite> <!-- Failed suite [Suite] -->
