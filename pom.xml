@@ -22,6 +22,8 @@
                 <configuration>
                     <suiteXmlFiles>
                         	<suiteXmlFile>pixel3.xml</suiteXmlFile>
+<!--                        <suiteXmlFile>pixel3.xml</suiteXmlFile>
+-->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
